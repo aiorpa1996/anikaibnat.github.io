@@ -11,7 +11,7 @@ about:
       href: mailto:aibnat@cougarnet.uh.edu
     - icon: github
       text: GitHub
-      href: https://github.com/aiorpa1996/anikaibnat.github.io
+      href: https://aiorpa1996.github.io/anikaibnat.github.io/ 
 ---
 
 ## About
