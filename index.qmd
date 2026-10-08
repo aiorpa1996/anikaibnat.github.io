@@ -16,16 +16,24 @@ about:
 
 ## About
 
-Write two or three sentences about who you are, what you study, and what kinds of work interest you.
+I am a Ph.D. student in Political Science at the University of Houston, specializing in Public Policy and Research Methods. My research interests include technology and governance, AI governance, policy adoption and implementation, immigration, and gender policy. I am particularly interested in using quantitative and computational methods to examine how political institutions shape policy decisions and outcomes.
 
-## Publications
+## Research
 
-- Add a citation and a link to a paper here. If you do not have a publication yet, list a working paper or rename this section **Research**.
+Ibnat, Anika. (2026). “Explaining Cross-National Variation in the Implementation of Policies Addressing Technology-Facilitated Violence Against Women and Girls.” Working paper, University of Houston.
 
 ## Teaching
 
-- Add a course, workshop, tutoring role, or teaching interest here.
+Teaching Assistant | University of Houston (Fall 2025–Present)
+
+Support undergraduate courses in U.S. Government and Political Statistics through grading, course management, student assistance, and instruction in quantitative analysis using R/RStudio.
+
+Teaching Assistant | University of Texas at San Antonio (Fall 2022–Summer 2024)
+
+Assisted with five undergraduate courses through grading, classroom instruction, exam proctoring, student support, and preparation of instructional materials.
+
+Teaching Interests: Public Policy, Political Research Methods, Quantitative Analysis, Comparative Politics, and Technology & Governance.
 
 ## Working Papers
 
-- Add a working-paper title, coauthors, status, and a link to a draft when one is available.
+Ibnat, Anika. (2026). “Explaining Cross-National Variation in the Implementation of Policies Addressing Technology-Facilitated Violence Against Women and Girls.” Working paper, University of Houston.
